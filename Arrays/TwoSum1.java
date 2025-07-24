@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Arrays;
 
-public class TwoSum {
+public class TwoSum1 {
     public static void main(String[] args){
         int[] nums = {3,2,4};
         int target = 9;
