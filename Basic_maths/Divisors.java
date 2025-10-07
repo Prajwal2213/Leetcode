@@ -19,5 +19,6 @@ public class Divisors{
         long runtime = endTime - startTime;
 
         System.out.print("\n" + runtime);
+        sc.close();
     }
 }
