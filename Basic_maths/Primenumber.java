@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 class Primenumber{
     public static void main(String[] args) {
