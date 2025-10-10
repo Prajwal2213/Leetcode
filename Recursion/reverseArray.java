@@ -1,8 +1,11 @@
+
 public class reverseArray{
     public static void main(String[] args) {
-        int[] arr = {1,4,5,3,6};
+        int[] arr = {1,4,5,3,6};  //output:6 3 5 4 1
         int l = 0;
         int r = (arr.length - 1);
+
+
 
         while(l < r){
             swap(arr,l,r);
@@ -15,6 +18,7 @@ public class reverseArray{
         for (int num : arr) {
             System.out.print(num + " ");
         }
+      
     }
 
 
@@ -25,4 +29,5 @@ public class reverseArray{
         arr[l] = arr[r];
         arr[r] = temp;
     }
+    
 }
