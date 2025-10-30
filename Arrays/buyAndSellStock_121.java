@@ -21,7 +21,7 @@ class Solution {
 
  
  //Optimal Solution
- class Solution {
+ class buyAndSellStock_121 {
     public int maxProfit(int[] prices) {
         int buyPrice = prices[0];
         int profit = 0;

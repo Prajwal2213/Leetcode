@@ -1,4 +1,4 @@
-class Solution {
+class reverse_num {
     public int reverse(int x) {
         int last_digit = 0;
         int final_X = 0;
