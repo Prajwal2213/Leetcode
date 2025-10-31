@@ -3,7 +3,6 @@ class Solution {
         int[] res = new int[2];
         int j = 0;
 
-        set<Integer>
 
         for(int i=0;i<nums.length;i++){
            for(int k = i+1;k<nums.length;k++){
