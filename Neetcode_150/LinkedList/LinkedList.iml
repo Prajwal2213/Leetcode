@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/138.Copy List with Random Poiner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/141.LinkedList_cycle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/143.Reorder List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19.Remove Nth Node from End of list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.Add two numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/206.Reverse_linkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21.Merge_two_linkedlist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23.Merge k Sorted Lists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/237.Delete Node in LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/25.Reverse Nodes in k-Group" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/287.Find Duplicate Number" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
