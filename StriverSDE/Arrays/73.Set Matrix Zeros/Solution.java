@@ -37,7 +37,7 @@ class Solution {
     }
 }
 
-//Optimal Solution 
+//Optimal Solution  
 //Time complexity - O(N ^ 2)
 
 class Solution {
