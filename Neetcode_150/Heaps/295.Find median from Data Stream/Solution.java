@@ -1,5 +1,6 @@
 /*
 295.Find Median from Data Stream
+Type - Hard
 */
 
 class MedianFinder {
